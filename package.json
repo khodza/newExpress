@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start:dev": "nodemon client.js"
+  },
+  "name": "newexpress",
+  "version": "1.0.0",
+  "main": "client.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
